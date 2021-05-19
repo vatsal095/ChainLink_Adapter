@@ -36,6 +36,7 @@ See [Install Locally](#install-locally) for a quickstart
     ],
     "job_type": "calculate"
 }
+```
 
 ## Output
 
